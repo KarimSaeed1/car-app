@@ -1,3 +1,3 @@
 # car website
 
-built a car show app using html css javascript
+built a car show website using html css javascript
